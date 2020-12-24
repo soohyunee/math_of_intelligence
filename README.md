@@ -1,2 +1,2 @@
 # Math_of_intelligence
-Korean translation of 'The Math of Intelligence'
+the Korean translation of some parts in 'The Math of Intelligence' videos
